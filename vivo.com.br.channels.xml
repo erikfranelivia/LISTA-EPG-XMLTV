@@ -742,8 +742,8 @@
 <icon src="http://46.165.222.67:2095/tourobox/mtv.png"/>
 </channel>
 <channel id="">
-<display-name>MTV'S 00 HD</display-name>
-<icon src="http://46.165.222.67:2095/tourobox/mtv00.png"/>
+<display-name>JOVEM PAN NEWS JD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png"/>
 </channel>
 <channel id="430cd9c1793e523c2bd619f26c949d14">
 <display-name>PARAMOUNT UHD</display-name>
@@ -1058,8 +1058,8 @@
 <icon src="http://xplussport.com:8080/images/f299b81757f5a9a2f3c25e90ee816cef.png"/>
 </channel>
 <channel id="">
-<display-name>TRACE BRAZUCA HD</display-name>
-<icon src="http://xplussport.com:8080/images/babd9771c1c1e2f29c4cb36be9818109.png"/>
+<display-name>CINE CANAL HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"/>
 </channel>
 <channel id="95c74b5af2e547589ddddf8829313a0b">
 <display-name>MODO VIAGEM UHD</display-name>
