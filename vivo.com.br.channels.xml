@@ -1,1 +1,2106 @@
 
+"This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<tv generator-info-name="Xtream Codes" generator-info-url="http://turoisherego.xyz:2095/">
+<channel id="8ca07a74e7bd39f17b18ce79b7cb2e21">
+<display-name>CARTOON NETWORK UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cartoon.png"/>
+</channel>
+<channel id="8ca07a74e7bd39f17b18ce79b7cb2e21">
+<display-name>CARTOON NETWORK HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cartoon.png"/>
+</channel>
+<channel id="f050cd7e7eb8a070d33983a06aaec743">
+<display-name>DISCOVERY KIDS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoverykids.png"/>
+</channel>
+<channel id="f050cd7e7eb8a070d33983a06aaec743">
+<display-name>DISCOVERY KIDS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoverykids.png"/>
+</channel>
+<channel id="85e70a77ce70892e1ad14807d138b054">
+<display-name>DISNEY CHANNEL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/disneychannel.png"/>
+</channel>
+<channel id="85e70a77ce70892e1ad14807d138b054">
+<display-name>DISNEY CHANNEL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/disneychannel.png"/>
+</channel>
+<channel id="">
+<display-name>DISNEY CLASSICO 01 HD</display-name>
+<icon src="http://xplussport.com:8080/images/7e8e6a724bd1a6517cb1f2ac72defc66.png"/>
+</channel>
+<channel id="">
+<display-name>DISNEY CLASSICO 02 HD</display-name>
+<icon src="http://xplussport.com:8080/images/7e8e6a724bd1a6517cb1f2ac72defc66.png"/>
+</channel>
+<channel id="e69e0963f1889d9ac96ea006a852b22c">
+<display-name>GLOOB UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gloob.png"/>
+</channel>
+<channel id="e69e0963f1889d9ac96ea006a852b22c">
+<display-name>GLOOB HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gloob.png"/>
+</channel>
+<channel id="9c963816ac7ee09be747f3dfb5138a57">
+<display-name>GLOOBINHO UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globinho.png"/>
+</channel>
+<channel id="9c963816ac7ee09be747f3dfb5138a57">
+<display-name>GLOOBINHO HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globinho.png"/>
+</channel>
+<channel id="d4773fc0815cbc103c58c0bcb39c3450">
+<display-name>NICK JR UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nickjr.png"/>
+</channel>
+<channel id="d4773fc0815cbc103c58c0bcb39c3450">
+<display-name>NICK JR HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nickjr.png"/>
+</channel>
+<channel id="ef66fae2d6565eff7c3ffbd9e6d768d2">
+<display-name>NICKELODEON UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/Nickelodeon.png"/>
+</channel>
+<channel id="ef66fae2d6565eff7c3ffbd9e6d768d2">
+<display-name>NICKELODEON HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/Nickelodeon.png"/>
+</channel>
+<channel id="a1955c7a76ff89a2e68956009a6d10db">
+<display-name>TOONCAST UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tooncast.png"/>
+</channel>
+<channel id="a1955c7a76ff89a2e68956009a6d10db">
+<display-name>TOONCAST HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tooncast.png"/>
+</channel>
+<channel id="61a359ce10c6364cffb33c673958aa19">
+<display-name>TV RA TIM BUM HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/ratimbum.png"/>
+</channel>
+<channel id="aa5c5b1bf93d7e258c77498594dd68b1">
+<display-name>ZOOMO UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/zoomoo.png"/>
+</channel>
+<channel id="aa5c5b1bf93d7e258c77498594dd68b1">
+<display-name>ZOOMO HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/zoomoo.png"/>
+</channel>
+<channel id="9fe2bcfa757f8676000e68f448ae662e">
+<display-name>CARTOONITO UHD</display-name>
+<icon src="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png"/>
+</channel>
+<channel id="9fe2bcfa757f8676000e68f448ae662e">
+<display-name>CARTOONITO HD</display-name>
+<icon src="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png"/>
+</channel>
+<channel id="67462d560a7a3962f710eee7601dbc19">
+<display-name>COMBATE UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/combate.png"/>
+</channel>
+<channel id="67462d560a7a3962f710eee7601dbc19">
+<display-name>COMBATE HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/combate.png"/>
+</channel>
+<channel id="0a756f790d4a8272bd4950bb10d04e54">
+<display-name>GLOBO MINAS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globominas.png"/>
+</channel>
+<channel id="86f2f18c8f6e8b958c99037dfbeda000">
+<display-name>GLOBO NEWS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonews.png"/>
+</channel>
+<channel id="80452216edeb392a3c34c7f060077ebf">
+<display-name>GLOBO RJ UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globoRJ.png"/>
+</channel>
+<channel id="04e9fb9afbe0471363d143dbe1a65f4f">
+<display-name>GLOBO NORDESTE UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonordeste.png"/>
+</channel>
+<channel id="0a54d08d692b8e9a803f0037b8dcb060">
+<display-name>GLOBO SP UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globoSP.png"/>
+</channel>
+<channel id="ce18e212e3a9b9c1d95be7bf18684183">
+<display-name>GLOBO BRASILIA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globobrasilia.png"/>
+</channel>
+<channel id="ce18e212e3a9b9c1d95be7bf18684183">
+<display-name>GLOBO BRASILIA HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globobrasilia.png"/>
+</channel>
+<channel id="04e9fb9afbe0471363d143dbe1a65f4f">
+<display-name>GLOBO NORDESTE HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonordeste.png"/>
+</channel>
+<channel id="80452216edeb392a3c34c7f060077ebf">
+<display-name>GLOBO RJ HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globoRJ.png"/>
+</channel>
+<channel id="0a756f790d4a8272bd4950bb10d04e54">
+<display-name>GLOBO MINAS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globominas.png"/>
+</channel>
+<channel id="0a54d08d692b8e9a803f0037b8dcb060">
+<display-name>GLOBO SP HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globoSP.png"/>
+</channel>
+<channel id="86f2f18c8f6e8b958c99037dfbeda000">
+<display-name>GLOBO NEWS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonews.png"/>
+</channel>
+<channel id="c257936c35dcc04c9bbb71b4b91fdf2d">
+<display-name>TV SENADO HD</display-name>
+<icon src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAqFBMVEX///8AW56AgoUASpYAVJsASJUAWZ0AV5wAUZkAU5oATpgAUJkAR5UATJfK1eT6/P1ahLN7fYHv8/fT3emyw9m1treJpMY/dKuWmJra4uymutPl6/Jwk7ykuNKUrMuds8/D0OE0badzdnlli7fHyMl6mb9QfrAmZ6SvwNeBnsIAOI/g4OHx8fEZYaFXgrPF0uIAMIy7vL6rrK7p6enT09SLjZAAP5KanJ4UTUQPAAAIIElEQVR4nO2aaXuiPBSGpQlJ2ESFalEUl3Fra/vO0pn//8/eLIDWqUUtjp25nvtLLUs4Dzk5Jyeh0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnE0qubcMlCJM4m7cmlghsiUs3vdY6Gyf/iNYom1l24DmUc4tZGsY4p8IL7GXaT65t38cYDBckEDwX9juMekHQWnWubeeZJKMNEfyQuK1KLuxJNri2tScTDpfEOdh3+3Dh9+Jrm3wSSWp7R8vLu9ILun+Nt0YLm54mz2ik/uyvcNaoR6oH3wG43/r0GgdP9onuua8x/dxZsusf3X+MU0cIz/OEkLlye5wG2bVVHGbMxXHqqJzcbJ7mo34cj+O4P5ovLNst8ibzlp90GhDO7KP8UBCern7TEEb9mROYBMP87jUEVBHRIwIoc97N7sloSagS6W0+X8Tp+kfoc+moyvJk7apUyu3VHzH7aMKee4S+5XHzltXGlRqD9MI2n8TAqvZQdzk+ur3Ykv0oJp8nbzSDyhzo0NPmncOAWpx/lsEY+1UCmT8/tdFwRhgLokvYezLDyhhD2TmWjmWCtJu1m3s6WaXAYHZey+HCZf64VmPPIatK88wfnt1412b+c43GnsOqqgcZ+Yijxb7lX3csPlcJ5M7H4mFEGLlmRE2qXJTzj9btg4A516v9O1UrMezDAqVEly9rsPU8JlXFoFfH209858xg/GHSqmrQrqfOG/vB+eH4I8RVg9Cua4Ewc/1r1MSdqsmoWNf2rJmwamvreHoVg5BNanyYJU6e2B7Fj3fOZff2+/h1xvjk/r9xjc3lPN58e+dsWMX5D74nhNzvzYQuse34MG3f1t7oURDp4+7li4qv05trKvQurvDb9OYfV3h384kU1j4Ev7/cKYGSO0MZcb68lP8150vi27S33jEl7LeY73u9Yskw7W1p7a4jDkYLZvv2ptXfGj9YL22fpcmewmg9IbbPW6s6ZX6f3rxmWrR+15Y9+0X+6PTMyi3jlEwK0/tmy5cxJ1+W6VFewLizXatJfUcnU8YF6efHur5ukPrdRrBVmEyK53h1bmf8prBdJEZ1YvooO8vaSfc8L+BSsp3kCJ3uF68nBd7CtLLwduYF9kgfm5XrrcGIlgpXOxs9zOvVplDmibZRplB/czf9of65U/YoI2hg267uNF3dZIGWK4ReOnVa8lBL20dFfsxy9Tr2SolhwnXNNrGv3k9f32xRtQmlr9UKx6a+psJ0Oa1NYvjw8PCihckfX7REc+Jb7qQd9WTRHTTCpKXsUQsV+phF0jhea2vVKplWKNbZMOvqTmcb1cqGKa8bNqO4p24Wsm4I9RxXWOl6QfL+bhZHKVsPR+awV+e+2zaWKoXTB33wJnfSWLoZz1/o0qHU7cpxVEiVMUMNHXVeKaTGC00tacuZ3OCn7NOfplaYyAupvHmo6jBXbzgltFTYdZQzmNqwqTvevYjC23bx61ENw5dGbtDGXBinEvlulQCaVxPqDVhyXqoUiryEelYmqhXewSjLsrzeW1OjsKdeSV7mRqRQKFgxAoo2vRo/2NgqfNBxR/1SDtv+Kn+slELOR9FOrFd2BUUVp/zUHb9S2NFzsdfrZp1N3of27s26t6XCJHilie+8hXoVGt/8Ln/8auc/BiYCOK6/nMemhBirV+xkfc1KWe5k7yjsRHG3tdHBVypUr4c5xaNHjlGo3yMpK5SUFwO5doW3RdeVndmYFfGeUc9fqMGnzbEc4QmFtnx+UGG28V1B801tqTCSvcXKQBkLo1APQ1JapIQzcRGF3/Ph91AolSx2ch9Xqby/k+MMND2gcGAJs5dNXZorlGOUPxWPHrtGoRqkjJYW6cEfXERhEUJvCyfVZvRsjxYq3ZEJBBbZrYBnbysM9YcXPCDLtDnnWqEacXyxr1BH560k3YfeZRR+NWnwpnRSY3I8n9iuUek3mjrU7ZXAbyocaSecaX+dm1iqz5UrMSvPKNRuYZfjUF17oXGos0T7V/hWPRV19cQkiLSRZG/h4k2FOn6mW6tVLFW72uXifZrH0kjH0nHRmB4QrcsobOgJjsoVeeaXhHkibwy0Tz031PK36L9u5C2FoYrDXh5Te8ZLG0/53/JCnQ/VlKYMQNp39x9Qm8Iv7WIKXshaE7+wPDC5TDtRvsPQ7zUPK1S5zzVbZs+BiTTGMUlUqjYKUz0FN8IHeqpj11hC6QLx7tG0+JgXG8UMXFY6UlWm5AzUdETNpnSOZE6WdJIu4YH+7OJNL1V/TVjpkzxbGDdlwagZ9Te8nLWZqa6YDMfxXF8q6vyQ6JfutunUhJaXXGHupE39aIe4G09nDU+57FxFEFkykEC9bn6fHFCop+OcpTNH6Om4VtjXxRN1XZlIGMsVNvp6VZ3LJKt7kNcYZ0yav8mnoaWbTouzo1fbhsKMld7ONgbzD/ZhZO6VRbHltsrx91TeTBcqFpn68NVznE2tu2yP0/aOwnC666QNNe9wi+/sqF982jP3afHtHdcGtjhjxcSyYzPGdMYfmrKWCRGtBGOOcb2ZbY56kwZTV5qRPOYeZ3uPqU3i7YuqgI1C6bSSbSRVGmfcJoTYy+52/WXQXapjpJd/sdVyKS22Zzo+pdTsWCcteZW9GYWNjFAa5FG5+RSo5mS05EJeWazTxE+evfeYP0fY6XT2g5s6dsStb1914N43HgMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDv8T8B4oYFKO95UwAAAABJRU5ErkJggg=="/>
+</channel>
+<channel id="d40aca1745472a1e2f18a2523029e07d">
+<display-name>TV JUSTICA HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvjustica.png"/>
+</channel>
+<channel id="9cc1fb2ff2a117f8f7a55e65c8cd72b8">
+<display-name>TV ESCOLA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png"/>
+</channel>
+<channel id="5a3ef94c5c0f7065d4d50829b0cc1004">
+<display-name>TV CAMARA HD</display-name>
+<icon src="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png"/>
+</channel>
+<channel id="58b2b0a13f424b344e401f10c71981fd">
+<display-name>A&E UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/a&e.png"/>
+</channel>
+<channel id="993be6d07ddb5bc06f8837edf92cd47a">
+<display-name>AMC HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/amc.png"/>
+</channel>
+<channel id="e6782d4e82ac2a0a70cd8332cae1997c">
+<display-name>ANIMAL PLANET HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/animalplan.png"/>
+</channel>
+<channel id="760b66ab4aa2f59a3fb163d7593e2453">
+<display-name>ARTE 1 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/arte1.png"/>
+</channel>
+<channel id="91cc032148927efd55800877a54cd91f">
+<display-name>AXN HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/axn.png"/>
+</channel>
+<channel id="58b2b0a13f424b344e401f10c71981fd">
+<display-name>BAND HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/band.png"/>
+</channel>
+<channel id="8005d89ef040d2a5ec54b0f1a5ac9ebe">
+<display-name>BAND UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/band.png"/>
+</channel>
+<channel id="25d4c1a568300deb46b7262f442398ba">
+<display-name>BAND NEWS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/bandnews.png"/>
+</channel>
+<channel id="25d4c1a568300deb46b7262f442398ba">
+<display-name>BAND NEWS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/bandnews.png"/>
+</channel>
+<channel id="827d6acc2c9579fda05445e42ac64784">
+<display-name>BAND SPORTS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/bandsports.png"/>
+</channel>
+<channel id="827d6acc2c9579fda05445e42ac64784">
+<display-name>BAND SPORTS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/bandsports.png"/>
+</channel>
+<channel id="24be76ef60ace55820dd2869bd893fe4">
+<display-name>CINEMAX HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cinemax.png"/>
+</channel>
+<channel id="24be76ef60ace55820dd2869bd893fe4">
+<display-name>CINEMAX UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cinemax.png"/>
+</channel>
+<channel id="058da2b2c16ab1dc4c82ad19e599299e">
+<display-name>CNN BRASIL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cnnbrasil.png"/>
+</channel>
+<channel id="88211f72a7db38d5b809412ad569b10e">
+<display-name>CNN ESPANHOL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cnnespanh.png"/>
+</channel>
+<channel id="6399393c81540f24fc69542ae63d7827">
+<display-name>CURTA! HD</display-name>
+<icon src="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png"/>
+</channel>
+<channel id="6399393c81540f24fc69542ae63d7827">
+<display-name>CURTA! UHD</display-name>
+<icon src="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png"/>
+</channel>
+<channel id="58b2b0a13f424b344e401f10c71981fd">
+<display-name>DISCOVERY CHANNEL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discochannel.png"/>
+</channel>
+<channel id="51d4485d28d5acb1da07e259f23dbbb5">
+<display-name>DISCOVERY CHANNEL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discochannel.png"/>
+</channel>
+<channel id="927eb26562d10bdba45298958d76b8ac">
+<display-name>DISCOVERY H&H HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoHeH.png"/>
+</channel>
+<channel id="22a2824658680a39e8696e02fb8cb34d">
+<display-name>DISCOVERY SCIENCE HD</display-name>
+<icon src="http://xplussport.com:8080/images/9cf3027f4e272350c3eeabf760cb1cba.png"/>
+</channel>
+<channel id="ce83d2eabfcab425926a03d0071e85ce">
+<display-name>DISCOVERY THEATER HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discovery-theather.png"/>
+</channel>
+<channel id="ce83d2eabfcab425926a03d0071e85ce">
+<display-name>DISCOVERY THEATER UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discovery-theather.png"/>
+</channel>
+<channel id="c48950d3f18be887d41a80c0e4fe058e">
+<display-name>DISCOVERY TURBO HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoturbo.png"/>
+</channel>
+<channel id="2562574e5c1223acb63b1c6b48e53ae2">
+<display-name>DISCOVERY WORLD HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoworld.png"/>
+</channel>
+<channel id="97b6c8e472656288500718c9c0cd8e8e">
+<display-name>E! HD</display-name>
+<icon src="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png"/>
+</channel>
+<channel id="b51bf7197afd054c81df30c5efa21791">
+<display-name>E! UHD</display-name>
+<icon src="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png"/>
+</channel>
+<channel id="801742da95e26c7f3f5732fc8f474f74">
+<display-name>ESPN 3 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espn3.png"/>
+</channel>
+<channel id="801742da95e26c7f3f5732fc8f474f74">
+<display-name>ESPN 3 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espn3.png"/>
+</channel>
+<channel id="dd52b90c669a4b6509a2c2e7bbb2063b">
+<display-name>ESPN 2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espn2.png"/>
+</channel>
+<channel id="dd52b90c669a4b6509a2c2e7bbb2063b">
+<display-name>ESPN 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espn2.png"/>
+</channel>
+<channel id="espnextra.br">
+<display-name>ESPN EXTRA HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espnextra.png"/>
+</channel>
+<channel id="espnextra.br">
+<display-name>ESPN EXTRA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espnextra.png"/>
+</channel>
+<channel id="dcb460221411a865a174096e0781dbc2">
+<display-name>ESPN HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espn1.png"/>
+</channel>
+<channel id="dcb460221411a865a174096e0781dbc2">
+<display-name>ESPN UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/espn1.png"/>
+</channel>
+<channel id="e984abb9831d14092ceb5770da892f1e">
+<display-name>FILM & ARTS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/filmsearts.png"/>
+</channel>
+<channel id="ca7296e419320a8d3df9ec11c3229a34">
+<display-name>FISH TV HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/fishtv.png"/>
+</channel>
+<channel id="8a5e171c3d9fd93df328084d57935abe">
+<display-name>FOOD NETWORK UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/foodnetwor.png"/>
+</channel>
+<channel id="f59c512e2fe682c1b91167de085bc7aa">
+<display-name>FOX SPORTS 2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/foxsports2.png"/>
+</channel>
+<channel id="f59c512e2fe682c1b91167de085bc7aa">
+<display-name>FOX SPORTS 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/foxsports2.png"/>
+</channel>
+<channel id="92874ded09618aad98e876f0b1bf3087">
+<display-name>ESPN 4 HD</display-name>
+<icon src="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png"/>
+</channel>
+<channel id="92874ded09618aad98e876f0b1bf3087">
+<display-name>ESPN 4 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png"/>
+</channel>
+<channel id="399b9232cd96209983f2217e21db7700">
+<display-name>FUTURA HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/futura.png"/>
+</channel>
+<channel id="399b9232cd96209983f2217e21db7700">
+<display-name>FUTURA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/futura.png"/>
+</channel>
+<channel id="70cd62729420e4542acdb997fec60cc8">
+<display-name>FX UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/fx.png"/>
+</channel>
+<channel id="63dcb3f6d6aabc020412903897aff6f0">
+<display-name>GNT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gnt.png"/>
+</channel>
+<channel id="674f75d3e92035c851dc6a107923606a">
+<display-name>H2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/h2.png"/>
+</channel>
+<channel id="105372009ec2393ff1aa443f2392f028">
+<display-name>HISTORY HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/history.png"/>
+</channel>
+<channel id="105372009ec2393ff1aa443f2392f028">
+<display-name>HISTORY UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/history.png"/>
+</channel>
+<channel id="9c2c22927ac4f7f027da5ff624c74554">
+<display-name>HBO 2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbo2.png"/>
+</channel>
+<channel id="9c2c22927ac4f7f027da5ff624c74554">
+<display-name>HBO 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbo2.png"/>
+</channel>
+<channel id="31f41c270936f35885ff2facfdc7b217">
+<display-name>HBO HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbo.png"/>
+</channel>
+<channel id="31f41c270936f35885ff2facfdc7b217">
+<display-name>HBO UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbo.png"/>
+</channel>
+<channel id="684ea49b6d0eeaf8d9c747b69a6ae808">
+<display-name>HBO FAMILY HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbofamily.png"/>
+</channel>
+<channel id="684ea49b6d0eeaf8d9c747b69a6ae808">
+<display-name>HBO FAMILY UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbofamily.png"/>
+</channel>
+<channel id="06f8b7bd12705334f1635ff6dc7d8b00">
+<display-name>HBO SIGNATURE HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbosignat.png"/>
+</channel>
+<channel id="06f8b7bd12705334f1635ff6dc7d8b00">
+<display-name>HBO SIGNATURE UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbosignat.png"/>
+</channel>
+<channel id="066f0e1be4906c6984e4c6e3382244bb">
+<display-name>HBO PLUS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hboplus.png"/>
+</channel>
+<channel id="066f0e1be4906c6984e4c6e3382244bb">
+<display-name>HBO PLUS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hboplus.png"/>
+</channel>
+<channel id="7a385a7255816808e42b0ae2df09ea6e">
+<display-name>HBO XTREME HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hboextreme.png"/>
+</channel>
+<channel id="7a385a7255816808e42b0ae2df09ea6e">
+<display-name>HBO XTREME UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hboextreme.png"/>
+</channel>
+<channel id="17c01e332134e758ebf9f3084a0323e2">
+<display-name>HBO POP HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbopop.png"/>
+</channel>
+<channel id="17c01e332134e758ebf9f3084a0323e2">
+<display-name>HBO POP UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbopop.png"/>
+</channel>
+<channel id="262e5e6b2c784e7bfc6a21bf7adf8b2d">
+<display-name>HBO MUNDI HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbomundi.png"/>
+</channel>
+<channel id="262e5e6b2c784e7bfc6a21bf7adf8b2d">
+<display-name>HBO MUNDI UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/hbomundi.png"/>
+</channel>
+<channel id="67fcc0ef70dbe00de1b3deb1f8df83a7">
+<display-name>DISCOVERY ID HD</display-name>
+<icon src="http://xplussport.com:8080/images/01db1d51f1a8e75ba3a360edc60fa6f9.png"/>
+</channel>
+<channel id="67fcc0ef70dbe00de1b3deb1f8df83a7">
+<display-name>DISCOVERY ID UHD</display-name>
+<icon src="http://xplussport.com:8080/images/01db1d51f1a8e75ba3a360edc60fa6f9.png"/>
+</channel>
+<channel id="67d0e19a0797a5aef07648707e3d351d">
+<display-name>MEGAPIX UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/megapix.png"/>
+</channel>
+<channel id="b0a2124a3ff40b1e8a361066cb139304">
+<display-name>MULTISHOW UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/multishow.png"/>
+</channel>
+<channel id="96616c9ed8dbad9709d334510528d09f">
+<display-name>NATIONAL GEOGRAPHIC HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nationalgeo.png"/>
+</channel>
+<channel id="430cd9c1793e523c2bd619f26c949d14">
+<display-name>PARAMOUNT HD</display-name>
+<icon src="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png"/>
+</channel>
+<channel id="ce3411fdce4e46589d29aa7ad2f67d24">
+<display-name>PREMIERE CLUBES HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere1.png"/>
+</channel>
+<channel id="8a112bab477ca8720c8c356028355e4f">
+<display-name>PREMIERE 2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere2.png"/>
+</channel>
+<channel id="17a2aaf0fa17896ad718c3af3225a066">
+<display-name>PREMIERE 3 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere 3.png"/>
+</channel>
+<channel id="a4c20259a62b3d9c550ab733788224ee">
+<display-name>PREMIERE 4 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere4.png"/>
+</channel>
+<channel id="b1681f11af44210ec62081bbadbd79b6">
+<display-name>PREMIERE 5 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere5.png"/>
+</channel>
+<channel id="d720edf8c60c44036e64eb0530bf8921">
+<display-name>PREMIERE 6 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere6.png"/>
+</channel>
+<channel id="25c18af40cea08e995de36be3c106d9a">
+<display-name>PREMIERE 7 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere7.png"/>
+</channel>
+<channel id="f657a01af7e6c2084766edcc0b93481e">
+<display-name>PREMIERE 8 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere8.png"/>
+</channel>
+<channel id="">
+<display-name>PREMIERE 9 HD</display-name>
+<icon src="http://xplussport.com:8080/images/107d824017bb48a2da986be4e1f5fe2a.png"/>
+</channel>
+<channel id="2390a6b18334104e48de63a2ed6082b4">
+<display-name>PRIME BOX BRASIL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/primebrazil.png"/>
+</channel>
+<channel id="2390a6b18334104e48de63a2ed6082b4">
+<display-name>PRIME BOX BRASIL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/primebrazil.png"/>
+</channel>
+<channel id="de3981ef9d7511cc177772042b9431bb">
+<display-name>RECORD HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/record.png"/>
+</channel>
+<channel id="0174d85bcec49d7450dfbcfca9fb1efe">
+<display-name>RECORD NEWS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/recordnews.png"/>
+</channel>
+<channel id="964d727cca3b433ecaa6aec4065ccd31">
+<display-name>REDE TV HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/redetv.png"/>
+</channel>
+<channel id="d5ba98edc1bf8a01cb2f3f62c1135a28">
+<display-name>REDE VIDA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"/>
+</channel>
+<channel id="840475c54a9eee21ab5c7ee2976e4986">
+<display-name>SBT HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sbt.png"/>
+</channel>
+<channel id="1858af88a2372e92f807349b108aa167">
+<display-name>SBT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sbt.png"/>
+</channel>
+<channel id="f1dc62ab72ab6cb7321459078e294c3d">
+<display-name>SONY CHANNEL HD</display-name>
+<icon src="http://xplussport.com:8080/images/009233f8001e949aad9e2a7551ebcc5a.png"/>
+</channel>
+<channel id="f1dc62ab72ab6cb7321459078e294c3d">
+<display-name>SONY CHANNEL UHD</display-name>
+<icon src="http://xplussport.com:8080/images/009233f8001e949aad9e2a7551ebcc5a.png"/>
+</channel>
+<channel id="9cd056b24c9045082229968ff8bd78b4">
+<display-name>SPACE HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/space.png"/>
+</channel>
+<channel id="8371fb4fdb10baacc9fc5b227eceaae1">
+<display-name>SPORTV 1 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv1.png"/>
+</channel>
+<channel id="4e378fb79c3abfc9f377e49d034b3839">
+<display-name>SPORTV 2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv2.png"/>
+</channel>
+<channel id="70162c39a3bb1b387294c154927a4905">
+<display-name>SPORTV 3 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv3.png"/>
+</channel>
+<channel id="1a79436c8381b3bf36ade2e5de00dcfe">
+<display-name>STAR CHANNEL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star.png"/>
+</channel>
+<channel id="4e0929ba6c2cdf25cc3e0d8439bb0d79">
+<display-name>SYFY UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/syfy.png"/>
+</channel>
+<channel id="a02fd2ec8b151c1c51b60a90951b59b0">
+<display-name>TBS HD</display-name>
+<icon src="http://xplussport.com:8080/images/ccbe97c5fd5031716c58657495926e87.png"/>
+</channel>
+<channel id="fa733512a69b76a458c85cadd3f3ef0e">
+<display-name>TCM HD</display-name>
+<icon src="http://xplussport.com:8080/images/585b7e96b59b07b31a32ada7bd293973.png"/>
+</channel>
+<channel id="8b55dafaf602ea3be92693eb0e0178ff">
+<display-name>TLC HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tlc.png"/>
+</channel>
+<channel id="8b55dafaf602ea3be92693eb0e0178ff">
+<display-name>TLC UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tlc.png"/>
+</channel>
+<channel id="d71d42d9db208f95cdd26442572eb492">
+<display-name>TNT HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tnt.png"/>
+</channel>
+<channel id="96c9ea589533196ac86092320e0f7499">
+<display-name>TNT SERIES HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tntserie.png"/>
+</channel>
+<channel id="4c780f2e8a696448b03dd596c0a198ae">
+<display-name>TELECINE ACTION HD</display-name>
+<icon src="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png"/>
+</channel>
+<channel id="4c780f2e8a696448b03dd596c0a198ae">
+<display-name>TELECINE ACTION UHD</display-name>
+<icon src="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png"/>
+</channel>
+<channel id="d9d6fe300a7192711727213f93b089b7">
+<display-name>TELECINE CULT HD</display-name>
+<icon src="http://xplussport.com:8080/images/1c127bf7cacd67912d27413cc5d61e0e.png"/>
+</channel>
+<channel id="d9d6fe300a7192711727213f93b089b7">
+<display-name>TELECINE CULT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1c127bf7cacd67912d27413cc5d61e0e.png"/>
+</channel>
+<channel id="cac34b6a49fa04f58087c19b75ffbfc8">
+<display-name>TELECINE FUN HD</display-name>
+<icon src="http://xplussport.com:8080/images/3265c50b6acd9573148b9ecd4ba42940.png"/>
+</channel>
+<channel id="cac34b6a49fa04f58087c19b75ffbfc8">
+<display-name>TELECINE FUN UHD</display-name>
+<icon src="http://xplussport.com:8080/images/3265c50b6acd9573148b9ecd4ba42940.png"/>
+</channel>
+<channel id="9fb55181c553cc5f9d57463fcab7300d">
+<display-name>TELECINE PIPOCA HD</display-name>
+<icon src="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png"/>
+</channel>
+<channel id="9fb55181c553cc5f9d57463fcab7300d">
+<display-name>TELECINE PIPOCA UHD</display-name>
+<icon src="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png"/>
+</channel>
+<channel id="c646e29415439235b264363c65da757d">
+<display-name>TELECINE PREMIUM HD</display-name>
+<icon src="http://xplussport.com:8080/images/8cfce2c595f8cba6bf5f5201411d4750.png"/>
+</channel>
+<channel id="c646e29415439235b264363c65da757d">
+<display-name>TELECINE PREMIUM UHD</display-name>
+<icon src="http://xplussport.com:8080/images/8cfce2c595f8cba6bf5f5201411d4750.png"/>
+</channel>
+<channel id="2539372b0826839f0b58cef5c88a5277">
+<display-name>TELECINE TOUCH HD</display-name>
+<icon src="http://xplussport.com:8080/images/006b8e328b9d1df0bda4615d721ed20d.png"/>
+</channel>
+<channel id="2539372b0826839f0b58cef5c88a5277">
+<display-name>TELECINE TOUCH UHD</display-name>
+<icon src="http://xplussport.com:8080/images/006b8e328b9d1df0bda4615d721ed20d.png"/>
+</channel>
+<channel id="c29ae6899686711fb061c1c0f901029f">
+<display-name>UNIVERSAL CHANNEL HD</display-name>
+<icon src="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png"/>
+</channel>
+<channel id="dc5e3c12325cbea8c232dbdbbd4a8c1d">
+<display-name>VIVA HD</display-name>
+<icon src="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png"/>
+</channel>
+<channel id="dc5e3c12325cbea8c232dbdbbd4a8c1d">
+<display-name>VIVA UHD</display-name>
+<icon src="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png"/>
+</channel>
+<channel id="3118f151c9e260ec4878f428eaccdca2">
+<display-name>WARNER CHANNEL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/wbchannel.png"/>
+</channel>
+<channel id="3118f151c9e260ec4878f428eaccdca2">
+<display-name>WARNER CHANNEL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/wbchannel.png"/>
+</channel>
+<channel id="9ad470c43e121964d866d4baa83a76fc">
+<display-name>WOOHOO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png"/>
+</channel>
+<channel id="993be6d07ddb5bc06f8837edf92cd47a">
+<display-name>AMC UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/amc.png"/>
+</channel>
+<channel id="760b66ab4aa2f59a3fb163d7593e2453">
+<display-name>ARTE 1 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/arte1.png"/>
+</channel>
+<channel id="91cc032148927efd55800877a54cd91f">
+<display-name>AXN UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/axn.png"/>
+</channel>
+<channel id="41077c3fcabc2523dde850d6afbb5411">
+<display-name>PAI ETERNO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png"/>
+</channel>
+<channel id="927eb26562d10bdba45298958d76b8ac">
+<display-name>DISCOVERY H&H UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoHeH.png"/>
+</channel>
+<channel id="c48950d3f18be887d41a80c0e4fe058e">
+<display-name>DISCOVERY TURBO UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoturbo.png"/>
+</channel>
+<channel id="83980477dcbd1bc6f3ba92c5e7356c59">
+<display-name>DISCOVERY WORLD UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoworld.png"/>
+</channel>
+<channel id="22a2824658680a39e8696e02fb8cb34d">
+<display-name>DISCOVERY SCIENCE UHD</display-name>
+<icon src="http://xplussport.com:8080/images/9cf3027f4e272350c3eeabf760cb1cba.png"/>
+</channel>
+<channel id="e6782d4e82ac2a0a70cd8332cae1997c">
+<display-name>ANIMAL PLANET UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/animalplan.png"/>
+</channel>
+<channel id="ca7296e419320a8d3df9ec11c3229a34">
+<display-name>FISH TV UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/fishtv.png"/>
+</channel>
+<channel id="674f75d3e92035c851dc6a107923606a">
+<display-name>H2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/h2.png"/>
+</channel>
+<channel id="96616c9ed8dbad9709d334510528d09f">
+<display-name>NATIONAL GEOGRAPHIC UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nationalgeo.png"/>
+</channel>
+<channel id="">
+<display-name>TRAVEL BOX BRASIL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/travelbox.png"/>
+</channel>
+<channel id="">
+<display-name>MTV LIVE UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/mtvlive.png"/>
+</channel>
+<channel id="e798a4701a07cc5640d81640503fd51a">
+<display-name>STUDIO UNIVERSAL UHD</display-name>
+<icon src="http://xplussport.com:8080/images/52397e3a2e54a5b8b21dc37612c183d0.png"/>
+</channel>
+<channel id="70bb7958779f02fa10699711ea5cddf3">
+<display-name>MUSIC BOX BRASIL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/musicbox.png"/>
+</channel>
+<channel id="922cceaf51ffb3310a45253b62e3d54e">
+<display-name>COMEDY CENTRAL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/comedicentral.png"/>
+</channel>
+<channel id="d71d42d9db208f95cdd26442572eb492">
+<display-name>TNT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tnt.png"/>
+</channel>
+<channel id="9cd056b24c9045082229968ff8bd78b4">
+<display-name>SPACE UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/space.png"/>
+</channel>
+<channel id="">
+<display-name>JOVEM PAN NEWS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/jovempan.png"/>
+</channel>
+<channel id="">
+<display-name>JOVEM PAN NEWS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/jovempan.png"/>
+</channel>
+<channel id="smithsonianchannel.br">
+<display-name>SMITHSONIAN HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/smithso.png"/>
+</channel>
+<channel id="2d9d81c01ac8146d7f912d4901ce2929">
+<display-name>BIS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/BIS.png"/>
+</channel>
+<channel id="bcd2a6441fd5066ebd8823f1e0bc2fa8">
+<display-name>MTV UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/mtv.png"/>
+</channel>
+<channel id="">
+<display-name>MTV'S 00 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/mtv00.png"/>
+</channel>
+<channel id="430cd9c1793e523c2bd619f26c949d14">
+<display-name>PARAMOUNT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png"/>
+</channel>
+<channel id="58b2b0a13f424b344e401f10c71981fd">
+<display-name>A&E HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/a&e.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 1 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/dazn1.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/dazn2.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 3 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/dazn3.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 4 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/dazn4.png"/>
+</channel>
+<channel id="">
+<display-name>HBO MAX 1 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png"/>
+</channel>
+<channel id="">
+<display-name>HBO MAX 2 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png"/>
+</channel>
+<channel id="">
+<display-name>HBO MAX 3 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png"/>
+</channel>
+<channel id="">
+<display-name>HBO MAX 4 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png"/>
+</channel>
+<channel id="">
+<display-name>STAR + 1 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star1.png"/>
+</channel>
+<channel id="">
+<display-name>STAR + 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star2.png"/>
+</channel>
+<channel id="">
+<display-name>STAR + 3 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star3.png"/>
+</channel>
+<channel id="">
+<display-name>STAR+ 4 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star4.png"/>
+</channel>
+<channel id="663c56054587b26581580b3e6766b16b">
+<display-name>SPORTV 3 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv3.png"/>
+</channel>
+<channel id="4e378fb79c3abfc9f377e49d034b3839">
+<display-name>SPORTV 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv2.png"/>
+</channel>
+<channel id="8371fb4fdb10baacc9fc5b227eceaae1">
+<display-name>SPORTV 1 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv1.png"/>
+</channel>
+<channel id="">
+<display-name>PREMIERE 9 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/107d824017bb48a2da986be4e1f5fe2a.png"/>
+</channel>
+<channel id="f657a01af7e6c2084766edcc0b93481e">
+<display-name>PREMIERE 8 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere8.png"/>
+</channel>
+<channel id="caea7ea0b318bf8708481a8339e6e562">
+<display-name>PREMIERE 7 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere7.png"/>
+</channel>
+<channel id="d720edf8c60c44036e64eb0530bf8921">
+<display-name>PREMIERE 6 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere6.png"/>
+</channel>
+<channel id="b1681f11af44210ec62081bbadbd79b6">
+<display-name>PREMIERE 5 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere5.png"/>
+</channel>
+<channel id="9877d69b539e24abe50854d380b3ead3">
+<display-name>PREMIERE 4 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere4.png"/>
+</channel>
+<channel id="17a2aaf0fa17896ad718c3af3225a066">
+<display-name>PREMIERE 3 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere 3.png"/>
+</channel>
+<channel id="8a112bab477ca8720c8c356028355e4f">
+<display-name>PREMIERE 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere2.png"/>
+</channel>
+<channel id="ce3411fdce4e46589d29aa7ad2f67d24">
+<display-name>PREMIERE CLUBES UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere1.png"/>
+</channel>
+<channel id="70cd62729420e4542acdb997fec60cc8">
+<display-name>FX HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/fx.png"/>
+</channel>
+<channel id="c29ae6899686711fb061c1c0f901029f">
+<display-name>UNIVERSAL CHANNEL UHD</display-name>
+<icon src="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png"/>
+</channel>
+<channel id="96c9ea589533196ac86092320e0f7499">
+<display-name>TNT SERIES UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tntserie.png"/>
+</channel>
+<channel id="a02fd2ec8b151c1c51b60a90951b59b0">
+<display-name>TBS UHD</display-name>
+<icon src="http://xplussport.com:8080/images/ccbe97c5fd5031716c58657495926e87.png"/>
+</channel>
+<channel id="4e0929ba6c2cdf25cc3e0d8439bb0d79">
+<display-name>SYFY HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/syfy.png"/>
+</channel>
+<channel id="e798a4701a07cc5640d81640503fd51a">
+<display-name>STUDIO UNIVERSAL HD</display-name>
+<icon src="http://xplussport.com:8080/images/52397e3a2e54a5b8b21dc37612c183d0.png"/>
+</channel>
+<channel id="1a79436c8381b3bf36ade2e5de00dcfe">
+<display-name>STAR CHANNEL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star.png"/>
+</channel>
+<channel id="67d0e19a0797a5aef07648707e3d351d">
+<display-name>MEGAPIX HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/megapix.png"/>
+</channel>
+<channel id="e984abb9831d14092ceb5770da892f1e">
+<display-name>FILM & ARTS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/filmsearts.png"/>
+</channel>
+<channel id="smithsonianchannel.br">
+<display-name>SMITHSONIAN UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/smithso.png"/>
+</channel>
+<channel id="964d727cca3b433ecaa6aec4065ccd31">
+<display-name>REDE TV UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/redetv.png"/>
+</channel>
+<channel id="de3981ef9d7511cc177772042b9431bb">
+<display-name>RECORD UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/record.png"/>
+</channel>
+<channel id="67462d560a7a3962f710eee7601dbc19">
+<display-name>COMBATE 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/combate.png"/>
+</channel>
+<channel id="8371fb4fdb10baacc9fc5b227eceaae1">
+<display-name>SPORTV 1 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv1.png"/>
+</channel>
+<channel id="92874ded09618aad98e876f0b1bf3087">
+<display-name>ESPN 4 4k</display-name>
+<icon src="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png"/>
+</channel>
+<channel id="">
+<display-name>STAR + 1 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/star1.png"/>
+</channel>
+<channel id="0a54d08d692b8e9a803f0037b8dcb060">
+<display-name>GLOBO SP 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globoSP.png"/>
+</channel>
+<channel id="e26375ad11fbc0740b725915057934f3">
+<display-name>GLOBO MINAS 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globominas.png"/>
+</channel>
+<channel id="80452216edeb392a3c34c7f060077ebf">
+<display-name>GLOBO RJ 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globoRJ.png"/>
+</channel>
+<channel id="ce18e212e3a9b9c1d95be7bf18684183">
+<display-name>GLOBO BRASILIA 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globobrasilia.png"/>
+</channel>
+<channel id="1858af88a2372e92f807349b108aa167">
+<display-name>SBT 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sbt.png"/>
+</channel>
+<channel id="de3981ef9d7511cc177772042b9431bb">
+<display-name>RECORD 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/record.png"/>
+</channel>
+<channel id="">
+<display-name>MTV'S 00 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/mtv00.png"/>
+</channel>
+<channel id="922cceaf51ffb3310a45253b62e3d54e">
+<display-name>COMEDY CENTRAL 4k</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/comedicentral.png"/>
+</channel>
+<channel id="dc5e3c12325cbea8c232dbdbbd4a8c1d">
+<display-name>VIVA 4K</display-name>
+<icon src="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png"/>
+</channel>
+<channel id="b51bf7197afd054c81df30c5efa21791">
+<display-name>E! 4K</display-name>
+<icon src="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png"/>
+</channel>
+<channel id="b0a2124a3ff40b1e8a361066cb139304">
+<display-name>MULTISHOW 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/multishow.png"/>
+</channel>
+<channel id="63dcb3f6d6aabc020412903897aff6f0">
+<display-name>GNT 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gnt.png"/>
+</channel>
+<channel id="058da2b2c16ab1dc4c82ad19e599299e">
+<display-name>CNN BRASIL 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cnnbrasil.png"/>
+</channel>
+<channel id="86f2f18c8f6e8b958c99037dfbeda000">
+<display-name>GLOBO NEWS 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonews.png"/>
+</channel>
+<channel id="c48950d3f18be887d41a80c0e4fe058e">
+<display-name>DISCOVERY TURBO 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoturbo.png"/>
+</channel>
+<channel id="51d4485d28d5acb1da07e259f23dbbb5">
+<display-name>DISCOVERY CHANNEL 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discochannel.png"/>
+</channel>
+<channel id="e6782d4e82ac2a0a70cd8332cae1997c">
+<display-name>ANIMAL PLANET 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/animalplan.png"/>
+</channel>
+<channel id="927eb26562d10bdba45298958d76b8ac">
+<display-name>DISCOVERY H&H 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoHeH.png"/>
+</channel>
+<channel id="105372009ec2393ff1aa443f2392f028">
+<display-name>HISTORY 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/history.png"/>
+</channel>
+<channel id="9c963816ac7ee09be747f3dfb5138a57">
+<display-name>GLOOBINHO 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globinho.png"/>
+</channel>
+<channel id="e69e0963f1889d9ac96ea006a852b22c">
+<display-name>GLOOB 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gloob.png"/>
+</channel>
+<channel id="ef66fae2d6565eff7c3ffbd9e6d768d2">
+<display-name>NICKELODEON 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/Nickelodeon.png"/>
+</channel>
+<channel id="61a359ce10c6364cffb33c673958aa19">
+<display-name>TV RA TIM BUM 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/ratimbum.png"/>
+</channel>
+<channel id="9fe2bcfa757f8676000e68f448ae662e">
+<display-name>CARTOONITO 4K</display-name>
+<icon src="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png"/>
+</channel>
+<channel id="ce3411fdce4e46589d29aa7ad2f67d24">
+<display-name>PREMIERE CLUBES 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere1.png"/>
+</channel>
+<channel id="8a112bab477ca8720c8c356028355e4f">
+<display-name>PREMIERE 2 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/premiere2.png"/>
+</channel>
+<channel id="4e378fb79c3abfc9f377e49d034b3839">
+<display-name>SPORTV 2 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/sportv2.png"/>
+</channel>
+<channel id="">
+<display-name>TRAVEL BOX BRASIL 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/travelbox.png"/>
+</channel>
+<channel id="41077c3fcabc2523dde850d6afbb5411">
+<display-name>PAI ETERNO 4K</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png"/>
+</channel>
+<channel id="25d4c1a568300deb46b7262f442398ba">
+<display-name>BAND NEWS 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/bandnews.png"/>
+</channel>
+<channel id="8005d89ef040d2a5ec54b0f1a5ac9ebe">
+<display-name>BAND 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/band.png"/>
+</channel>
+<channel id="6399393c81540f24fc69542ae63d7827">
+<display-name>CURTA! 4K</display-name>
+<icon src="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png"/>
+</channel>
+<channel id="96c9ea589533196ac86092320e0f7499">
+<display-name>TNT SERIES 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tntserie.png"/>
+</channel>
+<channel id="430cd9c1793e523c2bd619f26c949d14">
+<display-name>PARAMOUNT 4K</display-name>
+<icon src="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png"/>
+</channel>
+<channel id="">
+<display-name>LIKE HD</display-name>
+<icon src="http://xplussport.com:8080/images/4e4557287b2d8130e9a55c76c15a329d.png"/>
+</channel>
+<channel id="f5be88c55044b822a9a2401490823359">
+<display-name>CANAL BRASIL UHD</display-name>
+<icon src="http://xplussport.com:8080/images/f299b81757f5a9a2f3c25e90ee816cef.png"/>
+</channel>
+<channel id="">
+<display-name>TRACE BRAZUCA HD</display-name>
+<icon src="http://xplussport.com:8080/images/babd9771c1c1e2f29c4cb36be9818109.png"/>
+</channel>
+<channel id="95c74b5af2e547589ddddf8829313a0b">
+<display-name>MODO VIAGEM UHD</display-name>
+<icon src="http://xplussport.com:8080/images/8fb2caaa09fb1c05283fe55c3f6723bf.png"/>
+</channel>
+<channel id="cdd6294bd95474d21adbe697b93e74f9">
+<display-name>OFF HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/off.png"/>
+</channel>
+<channel id="">
+<display-name>AGRO MAIS UHD</display-name>
+<icon src="http://xplussport.com:8080/images/226fe8c7433897bf3ca3d80d0bcea1cf.png"/>
+</channel>
+<channel id="6a818311d7e4b4289c48edd00d7ad180">
+<display-name>TV BRASIL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvbrasil.png"/>
+</channel>
+<channel id="">
+<display-name>DOG TV UHD</display-name>
+<icon src="http://xplussport.com:8080/images/e0bf5e5eded4bfcc64c89fb02f4e499c.png"/>
+</channel>
+<channel id="">
+<display-name>FASHION TV HD</display-name>
+<icon src="http://xplussport.com:8080/images/cb4b17a59bff0dc91500b8731a2c5986.png"/>
+</channel>
+<channel id="a4e8a1c73c5ad3dfd7b19209a02e1a72">
+<display-name>TV NOVO TEMPO UHD</display-name>
+<icon src="http://xplussport.com:8080/images/b51ff808fcf95df6e490ee5a0520cb37.png"/>
+</channel>
+<channel id="4821f36cc9a87444eb84d06e7c5d1b14">
+<display-name>CANAL DO BOI HD</display-name>
+<icon src="http://xplussport.com:8080/images/52883a565c78a8d46e89d3f673e64262.png"/>
+</channel>
+<channel id="c6e5f0a3a27000b1e1031e97ad67f80e">
+<display-name>TV APARECIDA HD</display-name>
+<icon src="http://xplussport.com:8080/images/b6a842814eea07710529578743a15341.png"/>
+</channel>
+<channel id="3a406faebcb9b6018d9d66924eaa310f">
+<display-name>HGTV UHD</display-name>
+<icon src="http://xplussport.com:8080/images/b7899a72e09cbb4af16589b15b710513.png"/>
+</channel>
+<channel id="6ee3d8fe0b30a73b263616e23fa84703">
+<display-name>LIFETIME HD</display-name>
+<icon src="http://xplussport.com:8080/images/c87c4806dfd42e40e55f92b257b6cf4f.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 1</display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 2 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 3 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 4 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 5 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 6 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 7 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 8 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 9 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 10 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 11 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 12 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 13 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC PIPOCA 14 </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 9 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 8 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 7 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 6 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 5 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 4 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 3 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 2 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>ELEVEN 1 UHD</display-name>
+<icon src="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png"/>
+</channel>
+<channel id="">
+<display-name>FEC BEN 10</display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC CAVALEIROS DO ZODIACO </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC CAVERNA DO DRAGÃO</display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC GALINHA PINTADINHA </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC TIMÃO E PUMBA </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>FEC MENINAS SUPERPODEROSAS </display-name>
+<icon src="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 1</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 2</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 3</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 4</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 5</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 6</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS 7</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS PREMIUM 1</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS PREMIUM 2</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="">
+<display-name>beIN SPORTS PREMIUM 3</display-name>
+<icon src="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png"/>
+</channel>
+<channel id="9ab7ba6e8474632d140fba53e682623f">
+<display-name>TV LIBERAL BELEM HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvliberal.png"/>
+</channel>
+<channel id="">
+<display-name>BAND SP HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/band.png"/>
+</channel>
+<channel id="">
+<display-name>COPA DO BRASIL 1</display-name>
+<icon src="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png"/>
+</channel>
+<channel id="">
+<display-name>COPA DO BRASIL 2</display-name>
+<icon src="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png"/>
+</channel>
+<channel id="52527490b9847848aa62b504d4de98b1">
+<display-name>GLOBO RBS PORTO ALEGRE 4K</display-name>
+<icon src="http://toptv2.com:25461/logos/RBS_TV.png"/>
+</channel>
+<channel id="">
+<display-name>CAMPEONATO CARIOCA 01</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/carioca.png"/>
+</channel>
+<channel id="">
+<display-name>CAMPEONATO CARIOCA 02</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/carioca.png"/>
+</channel>
+<channel id="6d8ddc8619336ffdee8d999ad2eb14f6">
+<display-name>GLOBO RPC CURITIBA UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png"/>
+</channel>
+<channel id="07c0cfefd6e687471f318874a60c167f">
+<display-name>TV VERDES MARES UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/TV_Verdes_Mares.png"/>
+</channel>
+<channel id="1049b195cfd162ef76df132a2c009bce">
+<display-name>REDE AMAZONICA UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/RedeAmazonica.png"/>
+</channel>
+<channel id="9d031a9597550c5a95f4b8d32e0bcc0e">
+<display-name>TV TEM BAURU UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvtem.png"/>
+</channel>
+<channel id="">
+<display-name>TV ANHANGUERA GOIANIA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvanhangue.png"/>
+</channel>
+<channel id="04e9fb9afbe0471363d143dbe1a65f4f">
+<display-name>GLOBO SANTOS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globosantos.png"/>
+</channel>
+<channel id="">
+<display-name>TV GAZETA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gazeta.png"/>
+</channel>
+<channel id="0d13b3dd93c3f4236a0b8e4e1de1e2e6">
+<display-name>TV TEM SAO JOSE DO RIO PRETO</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvtem.png"/>
+</channel>
+<channel id="41e59e63dd5e9830e7a35e2cf89d6992">
+<display-name>TV VANGUARDA S. J DOS CAMPOS</display-name>
+<icon src="http://toptv2.com:25461/logos/tv_vanguarda.png"/>
+</channel>
+<channel id="aad8ad82753f397eb38e72ca7cea108a">
+<display-name>INTER TV CABUGI UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/intertv_4k.png"/>
+</channel>
+<channel id="367ac12d3b00fcab479de771d9ba7174">
+<display-name>TV CENTRO AMERICA CUIABA UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/TV_Centro_America.png"/>
+</channel>
+<channel id="">
+<display-name>TV TEM SOROCABA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvtem.png"/>
+</channel>
+<channel id="0f512b8bddf4cdc16120b64a9860e6c1">
+<display-name>EPTV CAMPINAS UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png"/>
+</channel>
+<channel id="de3981ef9d7511cc177772042b9431bb">
+<display-name>RECORD RJ UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/recordRJ.png"/>
+</channel>
+<channel id="">
+<display-name>TV MORENA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/morena.png"/>
+</channel>
+<channel id="657213496fda6cede915209bdf65edba">
+<display-name>TV CULTURA UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/tv-cultura.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 1 4K</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nsports.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 2 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nsports.png"/>
+</channel>
+<channel id="">
+<display-name>SPORTING PT UHD</display-name>
+</channel>
+<channel id="">
+<display-name>SPORT TV+ PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png"/>
+</channel>
+<channel id="">
+<display-name>SPORT TV 5 PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png"/>
+</channel>
+<channel id="">
+<display-name>SPORT TV 4 PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png"/>
+</channel>
+<channel id="">
+<display-name>SPORT TV 3 PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png"/>
+</channel>
+<channel id="">
+<display-name>SPORT TV 2 PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png"/>
+</channel>
+<channel id="">
+<display-name>SPORT TV 1 PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png"/>
+</channel>
+<channel id="">
+<display-name>SKY SPORTS F1 PT UHD</display-name>
+<icon src="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png"/>
+</channel>
+<channel id="">
+<display-name>PANDA BIGGS PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/7cb4f438f2191c6f2ca46487121e7f5b.png"/>
+</channel>
+<channel id="">
+<display-name>NICKELODEON PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/Nickelodeon.png"/>
+</channel>
+<channel id="">
+<display-name>NICK JR PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nickjr.png"/>
+</channel>
+<channel id="">
+<display-name>MOTOR VISION PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/motorvision.png"/>
+</channel>
+<channel id="">
+<display-name>HISTORY CHANNEL PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/history.png"/>
+</channel>
+<channel id="">
+<display-name>GLOBO PREMIUM PT UHD</display-name>
+<icon src="https://s2.loli.net/2022/02/15/CKj4ZFhTafENboX.png"/>
+</channel>
+<channel id="">
+<display-name>EUROSPORT HD PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/eurosports.png"/>
+</channel>
+<channel id="">
+<display-name>EUROSPORT 1 HD PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/eurosports.png"/>
+</channel>
+<channel id="">
+<display-name>BABY TV PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/babytv.png"/>
+</channel>
+<channel id="">
+<display-name>DISNEY CHANNEL PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/disneychannel.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY SHOWCASE PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/ac3004859ac7074f4c6e1e52d9bcdbd5.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY ID PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY CHANNEL PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discochannel.png"/>
+</channel>
+<channel id="">
+<display-name>CARTOON NETWORK PT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cartoon.png"/>
+</channel>
+<channel id="">
+<display-name>CANAL PANDA PT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/a721f8e803564008cb6cb5e32d68f387.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY HOME&HEALTH LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoHeH.png"/>
+</channel>
+<channel id="">
+<display-name>TOONCAST LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tooncast.png"/>
+</channel>
+<channel id="">
+<display-name>TNT SERIES LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tntserie.png"/>
+</channel>
+<channel id="">
+<display-name>TNT ESPORTES LT UHD</display-name>
+<icon src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/9b/21/f79b2181-f32a-ac81-5627-fb713be365a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"/>
+</channel>
+<channel id="">
+<display-name>NICK MUSIC LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nickmusic.png"/>
+</channel>
+<channel id="">
+<display-name>NICK JR LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nickjr.png"/>
+</channel>
+<channel id="">
+<display-name>NATIONAL GEOGRAPHIC LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/nationalgeo.png"/>
+</channel>
+<channel id="">
+<display-name>H2 LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/h2.png"/>
+</channel>
+<channel id="">
+<display-name>DISNEY CHANNEL LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/disneychannel.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY WORLD LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoworld.png"/>
+</channel>
+<channel id="">
+<display-name>ANIMAL PLANET LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/animalplan.png"/>
+</channel>
+<channel id="">
+<display-name>BOOMERANG LT UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"/>
+</channel>
+<channel id="">
+<display-name>CARTOON NETWORK LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cartoon.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY CHANNEL LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discochannel.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY CIVILIZATION LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/Discoverycivili.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY ID LT UHD</display-name>
+<icon src="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY TEATHER LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discovery-theather.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY TLC LT UHD</display-name>
+<icon src="https://www.pngfind.com/pngs/m/682-6829120_discovery-channel-png-download-discovery-tlc-logo-png.png"/>
+</channel>
+<channel id="">
+<display-name>DISCOVERY TURBO LT UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/discoturbo.png"/>
+</channel>
+<channel id="">
+<display-name>TV EVANGELIZAR HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/evangelizar.png"/>
+</channel>
+<channel id="">
+<display-name>REDE SUPER HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/redesuper.png"/>
+</channel>
+<channel id="">
+<display-name>REDE GOSPEL HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/redegospel.png"/>
+</channel>
+<channel id="6793ac67d44b951f0cf912d22c7be1d4">
+<display-name>CANCAO NOVA UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cancaonv.png"/>
+</channel>
+<channel id="6793ac67d44b951f0cf912d22c7be1d4">
+<display-name>CANCAO NOVA HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/cancaonv.png"/>
+</channel>
+<channel id="">
+<display-name>TV Gazeta Vitoria ES UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/gazeta.png"/>
+</channel>
+<channel id="e3e1c6f91207383d2e5fd99c74987acd">
+<display-name>RBI UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/RBI_TV.png"/>
+</channel>
+<channel id="">
+<display-name>TV SANTA CRUZ UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/santacruz.png"/>
+</channel>
+<channel id="6a818311d7e4b4289c48edd00d7ad180">
+<display-name>TV BRASIL UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvbrasil.png"/>
+</channel>
+<channel id="758ebfe832b1c18746e6f30f15b84e43">
+<display-name>TV BRASIL 2 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/tvbrasil2.png"/>
+</channel>
+<channel id="2483594bc0843044a21987e4ebb88cea">
+<display-name>TVE HD</display-name>
+<icon src="http://toptv2.com:25461/logos/TVE_HD.png"/>
+</channel>
+<channel id="0174d85bcec49d7450dfbcfca9fb1efe">
+<display-name>RECORD NEWS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/recordnews.png"/>
+</channel>
+<channel id="f390d320f5dbda6c2e6ff491c8277d73">
+<display-name>RAI ITALIA HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/raiitalia.png"/>
+</channel>
+<channel id="9157eed6826914ca30dd51e85f3fed8f">
+<display-name>NHK UHD</display-name>
+<icon src="http://toptv2.com:25461/logos/NHHK.png"/>
+</channel>
+<channel id="86f2f18c8f6e8b958c99037dfbeda000">
+<display-name>GLOBO NEWS SP UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonews.png"/>
+</channel>
+<channel id="">
+<display-name>TODO MUNDO ODEIA O CRIS UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>DOIS HOMENS E MEIO UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>CHAVES UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>TOM & JERRY HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>SUPER MAN HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>PINK E CEREBRO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>POKEMON HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>MARVEL E DC UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>STREET FIGHTER HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>COMEDIA UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>ANIMACAO UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>ACAO UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>DRAMA UHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>3 PALAVRINHAS HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/3palavrinhas.png"/>
+</channel>
+<channel id="">
+<display-name>A CASA DO MICKEY MOUSE HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>AS AVENTURAS DO BATMAN HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="8005d89ef040d2a5ec54b0f1a5ac9ebe">
+<display-name>BAND MINAS UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/band.png"/>
+</channel>
+<channel id="8005d89ef040d2a5ec54b0f1a5ac9ebe">
+<display-name>BAND NORDESTE UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/band.png"/>
+</channel>
+<channel id="">
+<display-name>CAMPEONATO CARIOCA 3 UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/carioca.png"/>
+</channel>
+<channel id="">
+<display-name>BOB ESPONJA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="de3c1a10f5699f9d47995f8f94194f50">
+<display-name>CNT HD</display-name>
+<icon src="http://toptv2.com:25461/logos/CNT.png"/>
+</channel>
+<channel id="">
+<display-name>EM BUSCA DO VALE ENCANTADO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="8a5e171c3d9fd93df328084d57935abe">
+<display-name>FOOD NETWORK HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/foodnetwor.png"/>
+</channel>
+<channel id="">
+<display-name>FORMIGA ATOMICA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>FREAKAZOID HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="ce18e212e3a9b9c1d95be7bf18684183">
+<display-name>GLOBO NEWS DF UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/globonews.png"/>
+</channel>
+<channel id="">
+<display-name>NARUTO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>MORANGUINHO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>MASHA E O URSO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>HE-MAN HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>HOMEM ARANHA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>HOMEM DE FERRO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="f3c555813f37d00a763093aab3262c6a">
+<display-name>I-SAT HD</display-name>
+<icon src="http://toptv2.com:25461/logos/I.Sat_logo.png"/>
+</channel>
+<channel id="">
+<display-name>VH1 HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/vh1.png"/>
+</channel>
+<channel id="">
+<display-name>TV DIARIO HD</display-name>
+<icon src="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png"/>
+</channel>
+<channel id="bac99aba5efc834ed83e920cb25a7437">
+<display-name>TRU TV HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/trutv.png"/>
+</channel>
+<channel id="dbdf3e62fb22598b209b563959e254a1">
+<display-name>REDE BRASIL HD</display-name>
+<icon src="http://toptv2.com:25461/logos/rede-brasil.png"/>
+</channel>
+<channel id="">
+<display-name>SABOR & ARTE HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/saborearte.png"/>
+</channel>
+<channel id="">
+<display-name>SHOPTIME UHD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/shoptime.png"/>
+</channel>
+<channel id="1ba2ba4d486ad4804077cd52d4545201">
+<display-name>POLISHOP HD</display-name>
+<icon src="http://46.165.222.67:2095/tourobox/polishop.png"/>
+</channel>
+<channel id="">
+<display-name>PEPPA PIG HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>PEQUENA SEREIA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>PERNALONGA HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png"/>
+</channel>
+<channel id="">
+<display-name>UFC PPV</display-name>
+</channel>
+<channel id="">
+<display-name>UFC FIGHT PASS</display-name>
+</channel>
+<channel id="">
+<display-name>BBB 2023 HD</display-name>
+</channel>
+<channel id="">
+<display-name>BBB 2023 4K</display-name>
+</channel>
+<channel id="">
+<display-name>NOSSO FUTEBOL 1</display-name>
+</channel>
+<channel id="">
+<display-name>NOSSO FUTEBOL 2</display-name>
+</channel>
+<channel id="">
+<display-name>NOSSO FUTEBOL 3</display-name>
+</channel>
+<channel id="">
+<display-name>NOSSO FUTEBOL 4</display-name>
+</channel>
+<channel id="">
+<display-name>BBB VARANDA</display-name>
+</channel>
+<channel id="">
+<display-name>BBB ACADEMIA</display-name>
+</channel>
+<channel id="">
+<display-name>BBB COZINHA</display-name>
+</channel>
+<channel id="">
+<display-name>BBB JARDIM</display-name>
+</channel>
+<channel id="">
+<display-name>BBB MOSAICO</display-name>
+</channel>
+<channel id="">
+<display-name>BBB PISCINA</display-name>
+</channel>
+<channel id="">
+<display-name>BBB QUARTO DESERTO</display-name>
+</channel>
+<channel id="">
+<display-name>BBB QUARTO FUNDO DO MAR</display-name>
+</channel>
+<channel id="">
+<display-name>BBB SALA</display-name>
+</channel>
+<channel id="">
+<display-name>BBB CAMAROTE E PIPOCA</display-name>
+</channel>
+<channel id="">
+<display-name>STAR+ 5 UHD</display-name>
+</channel>
+<channel id="">
+<display-name>STAR+ 6 UHD</display-name>
+</channel>
+<channel id="">
+<display-name>STAR+ 7 UHD</display-name>
+</channel>
+<channel id="">
+<display-name>STAR+ 8 UHD</display-name>
+</channel>
+<channel id="">
+<display-name>PARAMOUNT+ 1 4K</display-name>
+</channel>
+<channel id="">
+<display-name>PARAMOUNT+ 2 4K</display-name>
+</channel>
+<channel id="">
+<display-name>PARAMOUNT+ 3 4K</display-name>
+</channel>
+<channel id="">
+<display-name>PARAMOUNT+ 4 4K</display-name>
+</channel>
+<programme start="20230304142800 +0200" stop="20230304144100 +0200" channel="8ca07a74e7bd39f17b18ce79b7cb2e21">
+<title>O Incrível Mundo de Gumball: O Segredo 1ª Temp. Ep. 9</title>
+<desc>Gumball quase enlouquece tentando adivinhar um segredo de Darwin.</desc>
+</programme>
+<programme start="20230304142900 +0200" stop="20230304144200 +0200" channel="8ca07a74e7bd39f17b18ce79b7cb2e21">
+<title>O Incrível Mundo de Gumball: As Pétalas 5ª Temp. Ep. 130</title>
+<desc>Gumball e Darwin viram gurus de moda.</desc>
+</programme>
+<programme start="20230304142900 +0200" stop="20230304155000 +0200" channel="9fe2bcfa757f8676000e68f448ae662e">
+<title>Scooby-Doo O Mistério Começa</title>
+<desc>Fred, Daphne, Velma e Salsicha se conhecem dos tempos de colégio. Com a ajuda do filhote de dogue alemão Scooby, começam a trabalhar juntos para solucionar o mistério dos fantasmas que estão assombrando a escola Coolsville High.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304180000 +0200" channel="663c56054587b26581580b3e6766b16b">
+<title>Rio Open: Semifinal - Ao Vivo</title>
+<desc>Alguns dos maiores nomes do tênis brasileiro estão na disputa do Aberto de Tênis do Rio de Janeiro e você confere todas as emoções da competição aqui no SporTV.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304163000 +0200" channel="663c56054587b26581580b3e6766b16b">
+<title>Circuito Brasileiro de Futevôlei - Ao Vivo</title>
+<desc>Alguns dos melhores jogadores do futevôlei brasileiro da atualidade estão na disputa do Circuito Brasileiro de Futevôlei e você confere aqui no SporTV todas as emoções da competição.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="de3c1a10f5699f9d47995f8f94194f50">
+<title>Corrente dos 70</title>
+<desc>Acompanhe as reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304144000 +0200" channel="9c963816ac7ee09be747f3dfb5138a57">
+<title>Panda e Krash: Aprendendo Balé 1ª Temp. Ep. 47</title>
+<desc>Todos se juntam à Boneca Lilly quando ela aprende a dançar balé, menos o Robô Rony. Os brinquedos descobrem que existem muitas maneiras diferentes de dançar e que todos podem aprender uns com os outros.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="d40aca1745472a1e2f18a2523029e07d">
+<title>Descomplicando</title>
+<desc>Acompanhe o programa da TV Justiça feito por crianças e voltado para o público infantil, que tem como proposta incentivar as crianças a conhecer seus direitos e deveres, e chamar a atenção para as discussões de interesse público.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304143800 +0200" channel="aa5c5b1bf93d7e258c77498594dd68b1">
+<title>Flash, o Aventureiro: Adax 1ª Temp. Ep. 7</title>
+<desc>Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304145300 +0200" channel="8a5e171c3d9fd93df328084d57935abe">
+<title>Lanchonetes Clássicas com Guy Fieri: Comida Grande, Cidade Pequena </title>
+<desc>Nesta viagem, Guy Fieri para em cidades pequenas para comer grandes lanches. Em Raymond, New Hampshire, um açougue de enlouquecer serve hambúrgueres e linguiças empanadas feitas no local.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304145500 +0200" channel="dcb460221411a865a174096e0781dbc2">
+<title>Sportscenter Abre o Jogo - Ao Vivo</title>
+<desc>Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304160000 +0200" channel="25d4c1a568300deb46b7262f442398ba">
+<title>Tarde Bandnews</title>
+<desc>As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304153000 +0200" channel="760b66ab4aa2f59a3fb163d7593e2453">
+<title>Arte 1 na Dança: Abraço no Tempo</title>
+<desc>O Teatro Castro Alves fecha 2020 com o lançamento de uma iniciativa que reúne dança e músicas erudita e popular, tendo Caetano Veloso como convidado especial e homenagem aos 250 anos do nascimento de Beethoven.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="9cc1fb2ff2a117f8f7a55e65c8cd72b8">
+<title>Se Liga na Educação - EM</title>
+<desc>Uma iniciativa da Secretaria de Educação de Minas Gerais, apoiada pela Rede Minas, para levar conteúdos escolares aos alunos da rede pública.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304164000 +0200" channel="d9d6fe300a7192711727213f93b089b7">
+<title>Um Lugar ao Sol</title>
+<desc>Ambicioso, George consegue um emprego na fábrica do tio e se envolve com uma colega. Porém, ele logo se apaixona por uma jovem rica, inciando um triângulo amoroso.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="d4773fc0815cbc103c58c0bcb39c3450">
+<title>Tainá e Os Guardiões da Amazônia: O Silêncio Do Uirapuru </title>
+<desc>Uru, o filho do seu Uirapuru, não quer cantar na Árvore dos Uirapurus. Primeiro porque ele acha que a árvore está caindo, depois de séculos de existência, e depois porque ele quer mostrar o seu canto moderno e cheio de ginga.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="cdd6294bd95474d21adbe697b93e74f9">
+<title>OFF Docs: Sally</title>
+<desc>Um filme de surfe e te leva ao desconhecido e lá você aprende sobre si mesmo.Estreando: Craig Anderson, Ryan Callinan, Marti Paradisis, Mikey Brennan, Michael Spencer, Rangi Ormond, Tyler Holmer-Cross e Andrew Mooney.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="2483594bc0843044a21987e4ebb88cea">
+<title>Corazon</title>
+<desc>Revista diária ao vivo, onde em 30 minutos repassamos toda a atualidade social de nosso país.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304163000 +0200" channel="67462d560a7a3962f710eee7601dbc19">
+<title>Arena Combate: Grand Slam De Judô - Finais - Uzbequistão</title>
+<desc>Veja as grandes estrelas do Judô aqui no sportv</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="ef66fae2d6565eff7c3ffbd9e6d768d2">
+<title>Força Danger: A Grande Fã 2ª Temp. Ep. 9</title>
+<desc>Volt e Shoutout criam um plano para impedir uma fã super pegajosa de inventar chamadas de emergência falsas.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304145500 +0200" channel="e69e0963f1889d9ac96ea006a852b22c">
+<title>Miraculous - As Aventuras de Ladybug: Sentibolha 4ª Temp. Ep. 14</title>
+<desc>Agora que Shadow Moth sabe que Alya é a Rena Rouge, ele vai usar seu Sentimonstro para prender todas as pessoas que ela mais ama em bolhas no céu de Paris.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="ca7296e419320a8d3df9ec11c3229a34">
+<title>Mais Praia: Pescaria No Litoral Catarinense 2ª Temp. Ep. 1</title>
+<desc>Uderlan Moraes inicia a nova temporada de Mais Praia no litoral catarinense, acompanhado pelo seu amigo Marcelo, um dos parceiros do programa.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="d5ba98edc1bf8a01cb2f3f62c1135a28">
+<title>O Santo Terço</title>
+<desc>Os cinco mistérios gozoso contemplam a paixão e a morte de Jesus.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304150000 +0200" channel="85e70a77ce70892e1ad14807d138b054">
+<title>Ducktales - Os Caçadores de Aventuras: A Casa do Gastão Sortudo </title>
+<desc>A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia.</desc>
+</programme>
+<programme start="20230304143000 +0200" stop="20230304153000 +0200" channel="964d727cca3b433ecaa6aec4065ccd31">
+<title>ENCRENCA - Melhores Momentos</title>
+<desc>Programa de entretenimento familiar, cultura e noticias do dia-a-dia, com matérias abordando temas cotidianos com uma visão humorada da situação.</desc>
+</programme>
+<programme start="20230304143200 +0200" stop="20230304152100 +0200" channel="67fcc0ef70dbe00de1b3deb1f8df83a7">
+<title>Pequenas Cidades em Pânico: Segurança Ilusória 2ª Temp. </title>
+<desc>Joel Larson, de 21 anos, é morto a tiros em uma comunidade de homossexuais em Minneapolis, em 1990. Quanto outros dois jovens são baleados, a polícia descobre que um serial killer homofóbico se infiltrou na comunidade.</desc>
+</programme>
+<programme start="20230304143300 +0200" stop="20230304143500 +0200" channel="9157eed6826914ca30dd51e85f3fed8f">
+<title>Mini Program</title>
+<desc>Apresentando uma variedade de programas de mini-curtas.</desc>
+</programme>
+<programme start="20230304143300 +0200" stop="20230304144100 +0200" channel="a1955c7a76ff89a2e68956009a6d10db">
+<title>Esquadrão do Tempo</title>
+<desc>As aventuras do Esquadrão do Tempo, uma equipe de personagens disfuncionais que viaja no tempo para corrigir eventuais desvios na história.</desc>
+</programme>
+<programme start="20230304143400 +0200" stop="20230304163200 +0200" channel="7a385a7255816808e42b0ae2df09ea6e">
+<title>Cães de Guerra</title>
+<desc>David Packouz é casado e vai ter um bebê. Efraim tem um negócio lucrativo e, vendo que David vem passando por dificuldades financeiras, resolve chamar o amigo de infância para trabalhar com ele.</desc>
+</programme>
+<programme start="20230304143400 +0200" stop="20230304152700 +0200" channel="8b55dafaf602ea3be92693eb0e0178ff">
+<title>4 Mulheres e 1 Marido: Robyn, a Pacificadora 10ª Temp. Ep. 3</title>
+<desc>Mariah e Audrey estão na cidade e compartilham uma notícia emocionante com a família. Robyn tenta ajudar Kody a fazer as pazes com Meri depois da briga deles, mas Kody não parece interessado em resolver as coisas.</desc>
+</programme>
+<programme start="20230304143500 +0200" stop="20230304162300 +0200" channel="684ea49b6d0eeaf8d9c747b69a6ae808">
+<title>Dc Liga dos Superpets</title>
+<desc>Krypto, o Supercão e Superman são melhores amigos e inseparáveis, compartilham os mesmos superpoderes e lutam contra o crime lado a lado em Metrópolis.</desc>
+</programme>
+<programme start="20230304143500 +0200" stop="20230304152900 +0200" channel="96616c9ed8dbad9709d334510528d09f">
+<title>Cesar Millan: Melhores Humanos, Melhores Cachorros: Latindo Forte 3ª </title>
+<desc>César trabalha com dois chihuahuas antissociais e com seus donos, que não sabem como parar os latidos intermináveis ??de seus cães.</desc>
+</programme>
+<programme start="20230304143500 +0200" stop="20230304163000 +0200" channel="4e378fb79c3abfc9f377e49d034b3839">
+<title>NBB: Bauru x São Paulo</title>
+<desc>O melhor do basquete nacional tá de volta É a NBB e você acompanha aqui no Sportv.</desc>
+</programme>
+<programme start="20230304143500 +0200" stop="20230304144000 +0200" channel="61a359ce10c6364cffb33c673958aa19">
+<title>Contos Rá Tim Bum: As Aparências Enganam 1ª Temp. Ep. 12</title>
+<desc>Contos Rá Tim Bum é um programa de contação de histórias que vai estimular o conhecimento e a afetividade das crianças.</desc>
+</programme>
+<programme start="20230304143500 +0200" stop="20230304150000 +0200" channel="9157eed6826914ca30dd51e85f3fed8f">
+<title>Dear Japan</title>
+<desc>Indisponível.</desc>
+</programme>
+<programme start="20230304143500 +0200" stop="20230304163500 +0200" channel="cac34b6a49fa04f58087c19b75ffbfc8">
+<title>Como Perder Um Homem Em 10 Dias</title>
+<desc>Andie é uma jornalista que precisa começar e terminar um relacionamento em dez dias para escrever um artigo. Mas ela acaba escolhendo o publicitário Ben, que, por uma aposta, precisa fazer com que ela se apaixone por ele.</desc>
+</programme>
+<programme start="20230304143800 +0200" stop="20230304144500 +0200" channel="aa5c5b1bf93d7e258c77498594dd68b1">
+<title>Flash, o Aventureiro: Camelo 1ª Temp. Ep. 8</title>
+<desc>Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304164500 +0200" channel="dd52b90c669a4b6509a2c2e7bbb2063b">
+<title>Campeonato Italiano: Fiorentina x Milan - Ao Vivo</title>
+<desc>É a divisão de elite do futebol italiano e uma das cinco maiores ligas da Europa. Acompanhe os craques de Inter de Milão, Juventus, Milan e outras equipes em busca do título de melhor clube do país.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304162500 +0200" channel="c646e29415439235b264363c65da757d">
+<title>Tiro Certo</title>
+<desc>Um grupo de elite da marinha tem a missão de transportar um detento de uma prisão. Chegando lá, o lugar é atacado por terroristas que também estão atrás do homem.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304150000 +0200" channel="9c963816ac7ee09be747f3dfb5138a57">
+<title>Panda e Krash: Um Ovo Misterioso 1ª Temp. Ep. 48</title>
+<desc>Os brinquedos estão preocupados que Krash não seja capaz de cuidar do ovo encontrado na loja, então decidem roubá-lo.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304152500 +0200" channel="bac99aba5efc834ed83e920cb25a7437">
+<title>Os Vídeos Mais Idiotas do Mundo: Sem Tema 14ª Temp. Ep. 5</title>
+<desc>A truTV faz um compilado com 20 das pessoas mais idiotas do planeta. Nossa contagem regressiva inclui uma baladeira louca para tirar as calças, sujeitos intrépidos que não conseguem ficar de pé.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304145000 +0200" channel="61a359ce10c6364cffb33c673958aa19">
+<title>Traçando Arte: A Casa do Batman 3ª Temp. Ep. 12</title>
+<desc>Jean Pierre e Trácio vão parar no meio da cidade grande, onde conhecem Treta, uma traça motoboy que conhece muito de arte urbana As aventuras aqui estão garantidas e ainda no meio disso tudo...</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304162000 +0200" channel="993be6d07ddb5bc06f8837edf92cd47a">
+<title>O Paizão</title>
+<desc>Um irresponsável formado em direito adota um menino de cinco anos.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304161600 +0200" channel="674f75d3e92035c851dc6a107923606a">
+<title>11/09: Sobrevivi à Queda das Torres</title>
+<desc>As Torres Gêmeas tinham 110 andares cada uma. Este programa mostra as histórias dos sobreviventes de dois destes andares.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304153100 +0200" channel="51d4485d28d5acb1da07e259f23dbbb5">
+<title>Largados e Pelados: A Tribo: 40 Dias: Sacrificio 1ª Temp. Ep. 6</title>
+<desc>Faltando 15 dias para terminar o desafio de 40 dias, os dez participantes restantes, desidratados e com carência de proteína, convergem no lago Piranha, onde vão competir por comida e água.</desc>
+</programme>
+<programme start="20230304144000 +0200" stop="20230304150700 +0200" channel="927eb26562d10bdba45298958d76b8ac">
+<title>Vida No Paraíso: Caribe: Encontrando um Novo Ritmo em Punta Cana, </title>
+<desc>Uma funcionária de linha aérea está pronta para voltar às origens caribenhas em Punta Cana, República Dominicana. Ela quer um apartamento de dois quartos com piscina para a filha e espaço para toda a família.</desc>
+</programme>
+<programme start="20230304144100 +0200" stop="20230304145300 +0200" channel="8ca07a74e7bd39f17b18ce79b7cb2e21">
+<title>O Incrível Mundo de Gumball: O Fundador 6ª Temp. Ep. 157</title>
+<desc>Papai provoca o caos no edifício Chanax ao ser confundido com o CEO. Agora, ao lado de um funcionário insatisfeito, mamãe deverá salvar todo mundo das ideias perigosas de Ricardo.</desc>
+</programme>
+<programme start="20230304144100 +0200" stop="20230304145200 +0200" channel="a1955c7a76ff89a2e68956009a6d10db">
+<title>Esquadrão do Tempo</title>
+<desc>As aventuras do Esquadrão do Tempo, uma equipe de personagens disfuncionais que viaja no tempo para corrigir eventuais desvios na história.</desc>
+</programme>
+<programme start="20230304144200 +0200" stop="20230304145300 +0200" channel="8ca07a74e7bd39f17b18ce79b7cb2e21">
+<title>O Incrível Mundo de Gumball: Os Outros 4ª Temp. Ep. 62</title>
+<desc>Gumball e Darwin ficam chocados ao descobrir que sua classe não é a única do Colégio Elmore.</desc>
+</programme>
+<programme start="20230304144300 +0200" stop="20230304150600 +0200" channel="a02fd2ec8b151c1c51b60a90951b59b0">
+<title>Rebocadores</title>
+<desc>Rebocar veículos enquanto enfrenta diferentes níveis de oposição dos proprietários dos veículos.</desc>
+</programme>
+<programme start="20230304144500 +0200" stop="20230304145400 +0200" channel="aa5c5b1bf93d7e258c77498594dd68b1">
+<title>Flash, o Aventureiro: Canguru Vermelho 1ª Temp. Ep. 9</title>
+<desc>Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
+</programme>
+<programme start="20230304144500 +0200" stop="20230304160000 +0200" channel="f390d320f5dbda6c2e6ff491c8277d73">
+<title>L'eredità Weekend</title>
+<desc>Indisponível.</desc>
+</programme>
+<programme start="20230304144500 +0200" stop="20230304151500 +0200" channel="41077c3fcabc2523dde850d6afbb5411">
+<title>Novena dos Filhos do Pai Eterno</title>
+<desc>Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
+</programme>
+<programme start="20230304144500 +0200" stop="20230304153100 +0200" channel="96c9ea589533196ac86092320e0f7499">
+<title>Major Crimes 5ª Temp. Ep. 8</title>
+<desc>Os oficiais Andy Flynn e Mike Tao investigam a misteriosa overdose de uma jovem estrela de Hollywood e o caminho de destruição emocional que ele deixou em seu rastro.</desc>
+</programme>
+<programme start="20230304144800 +0200" stop="20230304151200 +0200" channel="2562574e5c1223acb63b1c6b48e53ae2">
+<title>Escultores de Gelo: Xeque-mate 1ª Temp. Ep. 6</title>
+<desc>A equipe constrói um tabuleiro de xadrez de gelo para ajudar o cliente a pregar uma peça em um colega de trabalho.</desc>
+</programme>
+<programme start="20230304144900 +0200" stop="20230304163700 +0200" channel="d71d42d9db208f95cdd26442572eb492">
+<title>Se Beber, Não Case Parte 2</title>
+<desc>O que era para ser uma simples despedida de solteiro acabou se transformando em outra aventura muito louca, só que agora num país diferente, com suas proprias regras e a promessa de ser "marcante".</desc>
+</programme>
+<programme start="20230304144900 +0200" stop="20230304170300 +0200" channel="24be76ef60ace55820dd2869bd893fe4">
+<title>O Destino de Júpiter</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304173500 +0200" channel="1049b195cfd162ef76df132a2c009bce">
+<title>Caldeirão com Mion</title>
+<desc>Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304173500 +0200" channel="367ac12d3b00fcab479de771d9ba7174">
+<title>Caldeirão com Mion</title>
+<desc>Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304152000 +0200" channel="c6e5f0a3a27000b1e1031e97ad67f80e">
+<title>Novena Vocacional</title>
+<desc>Todos nós, pelo batismo, somos chamados por Deus A "Novena Vocacional" é um convite a refletir sobre este chamado e enxergar que toda vocação é graça de Deus e também missão.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304151300 +0200" channel="3a406faebcb9b6018d9d66924eaa310f">
+<title>Piscinas Espetaculares: Minha Última Piscina Foi Uma Banheira de Ferro </title>
+<desc>Depois de 20 anos planejando, uma família de Palm Desert, Califórnia, finalmente consegue construir um oásis no deserto.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304151500 +0200" channel="922cceaf51ffb3310a45253b62e3d54e">
+<title>Os Goldbergs: O casamento do Bill 8ª Temp. Ep. 4</title>
+<desc>Beverly promete oferecer a Bill e Dolores um casamento perfeito em menos de vinte e quatro horas.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304160000 +0200" channel="06f8b7bd12705334f1635ff6dc7d8b00">
+<title>Succession 1ª Temp. Ep. 10</title>
+<desc>Final da temporada. Em meio à celebração do casamento de Tom e Shiv, Logan e sua equipe encontram-se na defensiva enquanto se espalha a notícia da oferta de aquisição da Waystar.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304150000 +0200" channel="61a359ce10c6364cffb33c673958aa19">
+<title>Eu e o Quarteto Apavorante: Estilo Macarrão De Ser 2ª Temp. Ep. 4</title>
+<desc>Nessa segunda temporada Macarrão e Cueca conhecem uma nova amiga, Melvis. Seu Gregório e os fantasmas do Quarteto Apavorante continuam apresentando novos gêneros musicais.</desc>
+</programme>
+<programme start="20230304145000 +0200" stop="20230304162400 +0200" channel="c48950d3f18be887d41a80c0e4fe058e">
+<title>Corridas Proibidas 6ª Temp. Ep. 24</title>
+<desc>As corridas de rua dos Estados Unidos são o tema desta série, que traz uma visão das ruas e dos bast</desc>
+</programme>
+<programme start="20230304145200 +0200" stop="20230304150500 +0200" channel="a1955c7a76ff89a2e68956009a6d10db">
+<title>Esquadrão do Tempo</title>
+<desc>As aventuras do Esquadrão do Tempo, uma equipe de personagens disfuncionais que viaja no tempo para corrigir eventuais desvios na história.</desc>
+</programme>
+<programme start="20230304145300 +0200" stop="20230304150400 +0200" channel="8ca07a74e7bd39f17b18ce7…"
+ http://37.58.50.28:2095/xmltv.php?username=Tourobox1-lives9237832962&password=6234456508&type=dreambox&output=mpegts#:~:text=This%20XML%20file,%3C/tv%3E
