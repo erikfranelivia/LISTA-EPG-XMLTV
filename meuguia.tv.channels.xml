@@ -4,12 +4,12 @@
     <channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="meuguia.tv" site_id="CBR" xmltv_id="Canal Brasil">Canal Brasil</channel>
     <channel update="i" site="meuguia.tv" site_id="MNX" xmltv_id="Cinemax">Cinemax</channel>
-    <channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
     <channel update="i" site="meuguia.tv" site_id="HFA" xmltv_id="HBO Family">HBO Family</channel>
     <channel update="i" site="meuguia.tv" site_id="MXE" xmltv_id="HBO Mundi">HBO Mundi</channel>
     <channel update="i" site="meuguia.tv" site_id="HPL" xmltv_id="HBO Plus">HBO Plus</channel>
-    <channel update="i" site="meuguia.tv" site_id="HPE" xmltv_id="HBO Plus *e">HBO Plus *e</channel>
+    <channel update="i" site="meuguia.tv" site_id="HPE" xmltv_id="HBO PLUS HD">HBO PLUS HD</channel>
     <channel update="i" site="meuguia.tv" site_id="MHD" xmltv_id="HBO Pop">HBO Pop</channel>
     <channel update="i" site="meuguia.tv" site_id="HFE" xmltv_id="HBO Signature">HBO Signature</channel>
     <channel update="i" site="meuguia.tv" site_id="MAP" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
